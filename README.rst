@@ -9,4 +9,4 @@ There are two graph-related ipython notebook's in this repo.  Click for static v
  
    .. _`Testing Shortest Path on an Image`: http://nbviewer.ipython.org/github/hugadams/graph_materials/blob/master/performance.ipynb
 
-The second notebook is not runnable without access to local inputs that I've not included in this repo.
+The second notebook requires private modules that haven't been included included in this repo.
